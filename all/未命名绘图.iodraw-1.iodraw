@@ -66,9 +66,6 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-30" value="数据库监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
           <mxGeometry x="10" y="113.39999999999998" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h0sbDkXpdJfJFX8sh0Sj-28" source="h0sbDkXpdJfJFX8sh0Sj-31" target="h0sbDkXpdJfJFX8sh0Sj-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
           <mxGeometry x="10" y="188" width="110" height="60" as="geometry" />
         </mxCell>
@@ -84,6 +81,9 @@
           <mxGeometry x="-0.3531" y="-3" relative="1" as="geometry">
             <mxPoint x="-22" y="-14" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-30" target="h0sbDkXpdJfJFX8sh0Sj-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
