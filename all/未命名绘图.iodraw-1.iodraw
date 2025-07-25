@@ -17,7 +17,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-4" target="h0sbDkXpdJfJFX8sh0Sj-11">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-4" target="h0sbDkXpdJfJFX8sh0Sj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-4" target="h0sbDkXpdJfJFX8sh0Sj-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE300.svg;" vertex="1" parent="1">
