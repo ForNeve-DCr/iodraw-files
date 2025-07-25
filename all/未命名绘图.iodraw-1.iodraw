@@ -320,6 +320,9 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-101" target="h0sbDkXpdJfJFX8sh0Sj-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-101" target="h0sbDkXpdJfJFX8sh0Sj-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-101" value="解析器判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-430" width="80" height="80" as="geometry" />
         </mxCell>
@@ -338,19 +341,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-108" value="PDF解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-380" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-109" value="专属解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-540" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-110" value="Word解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-460" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-114" value="其他解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-300" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
