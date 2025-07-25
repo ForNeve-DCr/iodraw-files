@@ -33,6 +33,9 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.memory;" vertex="1" parent="1">
           <mxGeometry x="195" y="540.1500000000001" width="50" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="280" height="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
