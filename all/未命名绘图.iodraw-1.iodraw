@@ -338,16 +338,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-108" value="PDF解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-340" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-109" value="专属解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-500" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-110" value="Word解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-420" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-260" width="120" height="60" as="geometry" />
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-114" value="其他解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
