@@ -223,7 +223,7 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-75" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-71" target="h0sbDkXpdJfJFX8sh0Sj-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1150" y="230" />
+              <mxPoint x="1100" y="130" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
