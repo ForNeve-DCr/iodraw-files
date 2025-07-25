@@ -42,9 +42,6 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
           <mxGeometry x="195" y="294" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-8" value="" style="image;points=[];html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="415" y="240.00000000000003" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-11" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="374" width="50" height="50" as="geometry" />
         </mxCell>
