@@ -322,7 +322,7 @@
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-106" value="支撑处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0sbDkXpdJfJFX8sh0Sj-104">
           <mxGeometry x="0.1764" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-34" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
