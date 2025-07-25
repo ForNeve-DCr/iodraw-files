@@ -376,7 +376,7 @@
           <mxGeometry x="530" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-1110" width="400" height="310" as="geometry" />
+          <mxGeometry x="1010" y="-1110" width="460" height="420" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-139" target="h0sbDkXpdJfJFX8sh0Sj-163">
           <mxGeometry relative="1" as="geometry" />
@@ -430,6 +430,9 @@
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-163" value="层级化文档内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-900" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-168" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
