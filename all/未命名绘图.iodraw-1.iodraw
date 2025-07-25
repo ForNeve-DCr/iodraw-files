@@ -19,7 +19,7 @@
           <mxGeometry x="74.99999999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-9">
-          <mxGeometry x="75" y="80.30000000000001" width="50" height="50" as="geometry" />
+          <mxGeometry x="75" y="60.30000000000001" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-11" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-9">
           <mxGeometry x="70" y="160.3" width="60" height="60" as="geometry" />
