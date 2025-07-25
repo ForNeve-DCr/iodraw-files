@@ -349,11 +349,14 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-110" value="Word解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-114" value="其他解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-114" value="PDF解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-116" value="其他解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-118" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="50" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
