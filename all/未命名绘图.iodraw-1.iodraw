@@ -378,6 +378,9 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="-1110" width="400" height="310" as="geometry" />
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-139" target="h0sbDkXpdJfJFX8sh0Sj-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-139" value="结构拆分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
@@ -425,8 +428,8 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-155" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="-725" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-163" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-900" width="220" height="30" as="geometry" />
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-163" value="层级化文档内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-900" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
