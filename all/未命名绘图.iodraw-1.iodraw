@@ -271,7 +271,7 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="82" width="640" height="598" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-90" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-90" value="仪器结果管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="273" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
