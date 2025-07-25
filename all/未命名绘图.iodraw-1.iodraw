@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1020" dy="111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="178" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-5" y="440" />
-              <mxPoint x="130" y="440" />
+              <mxPoint x="130" y="395" />
               <mxPoint x="130" y="289" />
             </Array>
           </mxGeometry>
@@ -42,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE300.svg;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="356.29999999999995" width="69.6" height="77.4" as="geometry" />
+          <mxGeometry x="10" y="356.29999999999995" width="69.6" height="77.4" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
           <mxGeometry x="180" y="155" width="50" height="50" as="geometry" />
