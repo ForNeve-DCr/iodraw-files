@@ -219,7 +219,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-71" value="是否已解析" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="100" width="80" height="80" as="geometry" />
+          <mxGeometry x="1080" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-74" value="是否平台版本解析" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="260" width="80" height="80" as="geometry" />
