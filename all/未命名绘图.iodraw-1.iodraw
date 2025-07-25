@@ -5,15 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="380" height="50" as="geometry" />
+          <mxGeometry x="160" y="240" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-4" target="h0sbDkXpdJfJFX8sh0Sj-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="438.7049999999999" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE300.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="69.6" height="77.4" as="geometry" />
@@ -22,7 +17,7 @@
           <mxGeometry x="195" y="294" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-8" value="" style="image;points=[];html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="325" y="240.00000000000003" width="50" height="50" as="geometry" />
+          <mxGeometry x="335" y="240.00000000000003" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-11" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="374" width="50" height="50" as="geometry" />
