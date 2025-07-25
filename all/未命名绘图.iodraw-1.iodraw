@@ -384,7 +384,7 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-900" width="340" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-147" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-147" value="标题1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="-875" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
