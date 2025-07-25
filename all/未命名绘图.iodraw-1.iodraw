@@ -57,7 +57,7 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-29" value="文件夹监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
           <mxGeometry x="10" y="36" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-32" value="内存dump" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-32" value="dump" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
           <mxGeometry x="10" y="266" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
@@ -114,11 +114,6 @@
               <mxPoint x="260" y="517" />
               <mxPoint x="260" y="550" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0sbDkXpdJfJFX8sh0Sj-41">
-          <mxGeometry x="-0.2305" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
