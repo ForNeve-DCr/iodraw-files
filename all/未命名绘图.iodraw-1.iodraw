@@ -18,6 +18,9 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-9">
           <mxGeometry x="77.19999999999999" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-9">
+          <mxGeometry x="75" y="80.30000000000001" width="50" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
