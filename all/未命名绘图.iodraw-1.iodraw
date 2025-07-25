@@ -262,7 +262,7 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-82" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1227.5" y="150" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-84" value="入库&lt;br&gt;结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-84" value="结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-71" value="是否已解析" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
