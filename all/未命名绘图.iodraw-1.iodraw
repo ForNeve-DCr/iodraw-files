@@ -373,8 +373,9 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-121" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-123" target="h0sbDkXpdJfJFX8sh0Sj-127">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-123">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="-990" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="-1010" />
               <mxPoint x="850" y="-1010" />
@@ -400,9 +401,6 @@
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-126" value="图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="-990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-127" value="表格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="-920" width="400" height="310" as="geometry" />
