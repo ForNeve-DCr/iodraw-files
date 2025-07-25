@@ -314,6 +314,12 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-103" value="根据&lt;div&gt;品牌-型号-版本&lt;/div&gt;&lt;div&gt;人工配置文件格式、对应解析器等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-104" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-440" as="sourcePoint" />
+            <mxPoint x="440" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
