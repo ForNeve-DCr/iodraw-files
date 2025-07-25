@@ -387,6 +387,9 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-147" value="标题1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="-875" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-148" value="表格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-845" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
