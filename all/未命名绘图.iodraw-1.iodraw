@@ -22,10 +22,10 @@
           <mxGeometry x="75" y="60.30000000000001" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-11" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-9">
-          <mxGeometry x="70" y="160.3" width="50" height="50" as="geometry" />
+          <mxGeometry x="75" y="140.3" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-12" value="" style="shape=mxgraph.signs.tech.usb;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-9">
-          <mxGeometry x="79" y="257.3" width="43" height="98" as="geometry" />
+          <mxGeometry x="79" y="257.3" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
