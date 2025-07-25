@@ -409,21 +409,20 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-150" value="文本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="-785" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-151" target="h0sbDkXpdJfJFX8sh0Sj-155">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="565" y="-710" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-151" value="标题2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="-755" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-155" target="h0sbDkXpdJfJFX8sh0Sj-151">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-155" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="-725" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="-835" as="sourcePoint" />
+            <mxPoint x="600" y="-820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="-820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
