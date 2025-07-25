@@ -7,8 +7,8 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE300.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="69.6" height="77.4" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="80" height="80" as="geometry" />
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
