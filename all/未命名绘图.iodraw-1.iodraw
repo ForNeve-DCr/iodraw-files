@@ -136,7 +136,7 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-43" target="h0sbDkXpdJfJFX8sh0Sj-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-70" value="文件&lt;div&gt;结构化数据&lt;/div&gt;&lt;div&gt;规则版本&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0sbDkXpdJfJFX8sh0Sj-69">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-70" value="文件&lt;div&gt;结构化数据&lt;/div&gt;&lt;div&gt;解析规则&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0sbDkXpdJfJFX8sh0Sj-69">
           <mxGeometry x="-0.7805" y="1" relative="1" as="geometry">
             <mxPoint x="7" y="28" as="offset" />
           </mxGeometry>
