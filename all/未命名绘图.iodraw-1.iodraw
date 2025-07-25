@@ -13,7 +13,7 @@
           <mxGeometry x="40" y="400" width="69.6" height="77.4" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-9" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="160" y="293.55" width="200" height="426.45" as="geometry" />
+          <mxGeometry x="160" y="293.55" width="200" height="346.45" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-8" value="" style="image;points=[];html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-9">
           <mxGeometry x="74.99999999999999" width="50" height="50" as="geometry" />
