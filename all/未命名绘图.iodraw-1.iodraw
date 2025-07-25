@@ -378,6 +378,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-123" target="h0sbDkXpdJfJFX8sh0Sj-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-123" target="h0sbDkXpdJfJFX8sh0Sj-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-123" value="结构拆分" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="-1110" width="80" height="80" as="geometry" />
         </mxCell>
