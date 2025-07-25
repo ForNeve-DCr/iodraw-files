@@ -384,6 +384,9 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-900" width="340" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-147" target="h0sbDkXpdJfJFX8sh0Sj-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-147" value="标题1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="-875" width="60" height="30" as="geometry" />
         </mxCell>
@@ -396,8 +399,8 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-150" value="文本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="-785" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-151" value="标题1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-865" width="60" height="30" as="geometry" />
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-151" value="标题2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="-755" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
