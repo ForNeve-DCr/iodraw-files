@@ -231,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-74" value="解析规则是否平台一致" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="1110" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-77" target="h0sbDkXpdJfJFX8sh0Sj-84">
           <mxGeometry relative="1" as="geometry" />
