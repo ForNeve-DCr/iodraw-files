@@ -210,7 +210,11 @@
           <mxGeometry x="448" y="20" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-67" target="h0sbDkXpdJfJFX8sh0Sj-71">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-67" value="仪器结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="110" width="120" height="60" as="geometry" />
