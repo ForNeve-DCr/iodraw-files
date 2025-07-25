@@ -64,7 +64,10 @@
           <mxGeometry x="195" y="540.1500000000001" width="50" height="19" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-28" value="数据采集模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="304" width="90" height="436" as="geometry" />
+          <mxGeometry x="310" y="304" width="130" height="436" as="geometry" />
+        </mxCell>
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
+          <mxGeometry x="10" y="26" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
