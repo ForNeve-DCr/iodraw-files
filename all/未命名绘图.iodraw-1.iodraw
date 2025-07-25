@@ -311,8 +311,8 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-101" value="解析器判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-560" width="120" height="60" as="geometry" />
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-103" value="根据&lt;div&gt;品牌-型号-版本&lt;/div&gt;&lt;div&gt;人工配置文件格式、对应解析器等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
