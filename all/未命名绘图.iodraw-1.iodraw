@@ -84,14 +84,13 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-55" value="待设计" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=none;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
           <mxGeometry x="190" y="250" width="50" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-29" target="h0sbDkXpdJfJFX8sh0Sj-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="158" as="sourcePoint" />
-            <mxPoint x="250" y="183" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="305" y="158" />
-              <mxPoint x="305" y="297" />
-              <mxPoint x="250" y="297" />
+              <mxPoint x="260" y="180" />
+              <mxPoint x="260" y="319" />
+              <mxPoint x="250" y="319" />
+              <mxPoint x="250" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
