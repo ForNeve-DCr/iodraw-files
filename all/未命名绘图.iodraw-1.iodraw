@@ -52,7 +52,7 @@
           <mxGeometry x="195" y="540.1500000000001" width="50" height="19" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-28" value="数据采集模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="260" height="546.7" as="geometry" />
+          <mxGeometry x="320" y="110" width="280" height="546.7" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-29" value="文件夹监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h0sbDkXpdJfJFX8sh0Sj-28">
           <mxGeometry x="10" y="40" width="110" height="60" as="geometry" />
