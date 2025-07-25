@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="440" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="560" height="50" as="geometry" />
         </mxCell>
@@ -59,9 +62,6 @@
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.memory;" vertex="1" parent="1">
           <mxGeometry x="195" y="540.1500000000001" width="50" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="h0sbDkXpdJfJFX8sh0Sj-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="440" height="470" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-28" value="数据采集模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="304" width="90" height="200" as="geometry" />
