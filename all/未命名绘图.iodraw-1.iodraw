@@ -231,9 +231,7 @@
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-78" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h0sbDkXpdJfJFX8sh0Sj-74" target="h0sbDkXpdJfJFX8sh0Sj-77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1210" y="130" />
-              <mxPoint x="1210" y="175" />
-              <mxPoint x="1290" y="175" />
+              <mxPoint x="1290" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -253,7 +251,7 @@
           <mxGeometry x="947.5" y="450" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h0sbDkXpdJfJFX8sh0Sj-84" value="入库&lt;br&gt;结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="533" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
