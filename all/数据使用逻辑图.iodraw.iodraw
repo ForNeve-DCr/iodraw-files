@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-1" target="SUI9kCOPl-98wD3Ftamx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SUI9kCOPl-98wD3Ftamx-1" value="终端数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SUI9kCOPl-98wD3Ftamx-2" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
