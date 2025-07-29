@@ -136,7 +136,7 @@
           <mxGeometry x="290" y="100" width="20" height="340" as="geometry" />
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-52" value="采集插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
