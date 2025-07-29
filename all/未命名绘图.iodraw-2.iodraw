@@ -51,6 +51,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-21" target="P5LKPvO3l_CSmgcFr2dd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-21" value="本地数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
           <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
