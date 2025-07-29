@@ -65,9 +65,6 @@
             <mxPoint x="45" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P5LKPvO3l_CSmgcFr2dd-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="P5LKPvO3l_CSmgcFr2dd-5">
-          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
