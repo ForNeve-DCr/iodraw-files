@@ -219,14 +219,11 @@
             <mxPoint x="680" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-19" target="fvWStRXUa0gQb8GFFxaV-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-19" value="文档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="605" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="760" y="645" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
