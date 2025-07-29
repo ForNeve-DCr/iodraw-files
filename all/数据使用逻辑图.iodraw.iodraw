@@ -31,6 +31,9 @@
         <mxCell id="SUI9kCOPl-98wD3Ftamx-6" value="绑定任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-8" target="SUI9kCOPl-98wD3Ftamx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SUI9kCOPl-98wD3Ftamx-8" value="选择模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -49,7 +52,10 @@
         <mxCell id="SUI9kCOPl-98wD3Ftamx-12" value="模板填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-16" target="SUI9kCOPl-98wD3Ftamx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-16" value="推荐数据绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
