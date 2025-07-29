@@ -31,11 +31,17 @@
         <mxCell id="SUI9kCOPl-98wD3Ftamx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-9" target="SUI9kCOPl-98wD3Ftamx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SUI9kCOPl-98wD3Ftamx-9" value="选择模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SUI9kCOPl-98wD3Ftamx-11" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-12" value="模板填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
