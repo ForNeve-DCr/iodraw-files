@@ -259,11 +259,17 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-33" value="Text2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="660" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-35" target="fvWStRXUa0gQb8GFFxaV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-35" value="表格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-36" value="表格1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="725" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-39" value="Text2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
