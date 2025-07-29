@@ -55,11 +55,22 @@
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-14" value="数采端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P5LKPvO3l_CSmgcFr2dd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-19" target="P5LKPvO3l_CSmgcFr2dd-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-19" target="P5LKPvO3l_CSmgcFr2dd-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="230" />
+              <mxPoint x="590" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-19" value="本地计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-21" target="P5LKPvO3l_CSmgcFr2dd-27">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +79,7 @@
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-26" value="心跳&lt;div&gt;元数据&lt;/div&gt;&lt;div&gt;VNC&lt;/div&gt;&lt;div&gt;……&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-27" target="P5LKPvO3l_CSmgcFr2dd-29">
           <mxGeometry relative="1" as="geometry" />
@@ -84,6 +95,15 @@
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-27" value="同步端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-29" target="P5LKPvO3l_CSmgcFr2dd-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="150" />
+              <mxPoint x="720" y="140" />
+              <mxPoint x="560" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-29" value="终端平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="120" width="120" height="60" as="geometry" />
