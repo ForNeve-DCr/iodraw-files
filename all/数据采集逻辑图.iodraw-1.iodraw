@@ -268,6 +268,9 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-36" target="fvWStRXUa0gQb8GFFxaV-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-36" target="fvWStRXUa0gQb8GFFxaV-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-36" value="表格1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="725" width="60" height="30" as="geometry" />
         </mxCell>
@@ -286,14 +289,17 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-44" value="单元格2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="840" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-46" target="fvWStRXUa0gQb8GFFxaV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-46" value="行1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="770" width="60" height="30" as="geometry" />
+          <mxGeometry x="850" y="870" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-47" value="单元格1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="900" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-48" value="单元格2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="850" width="60" height="30" as="geometry" />
+          <mxGeometry x="900" y="950" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
