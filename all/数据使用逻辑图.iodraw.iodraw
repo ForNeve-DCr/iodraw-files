@@ -4,70 +4,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-1" target="SUI9kCOPl-98wD3Ftamx-2">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-1" target="SUI9kCOPl-98wD3Ftamx-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-1" value="终端数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-1" value="终端数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-2" target="SUI9kCOPl-98wD3Ftamx-4">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SUI9kCOPl-98wD3Ftamx-2" target="SUI9kCOPl-98wD3Ftamx-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-2" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-2" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-4" target="SUI9kCOPl-98wD3Ftamx-6">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-4" target="SUI9kCOPl-98wD3Ftamx-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-4" target="SUI9kCOPl-98wD3Ftamx-8">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-4" target="SUI9kCOPl-98wD3Ftamx-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-4" value="数据解析&lt;div&gt;（处理规则更新、本地不适合解析内容）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-4" value="数据解析&lt;div&gt;（处理规则更新、本地不适合解析内容）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-6" target="SUI9kCOPl-98wD3Ftamx-9">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-6" target="SUI9kCOPl-98wD3Ftamx-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-6" value="绑定任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-6" value="绑定任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-8" target="SUI9kCOPl-98wD3Ftamx-16">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-8" target="SUI9kCOPl-98wD3Ftamx-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-8" value="选择模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-8" value="选择模板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-9" target="SUI9kCOPl-98wD3Ftamx-11">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-9" target="SUI9kCOPl-98wD3Ftamx-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-9" value="选择模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-9" value="选择模板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-11" target="SUI9kCOPl-98wD3Ftamx-12">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-11" target="SUI9kCOPl-98wD3Ftamx-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-11" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-11" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-12" target="SUI9kCOPl-98wD3Ftamx-19">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SUI9kCOPl-98wD3Ftamx-12" target="SUI9kCOPl-98wD3Ftamx-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-12" target="SUI9kCOPl-98wD3Ftamx-21">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SUI9kCOPl-98wD3Ftamx-12" target="SUI9kCOPl-98wD3Ftamx-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-12" value="模板填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-12" value="模板填充" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-16" target="SUI9kCOPl-98wD3Ftamx-11">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SUI9kCOPl-98wD3Ftamx-16" target="SUI9kCOPl-98wD3Ftamx-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-16" value="推荐数据绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-16" value="推荐数据绑定" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-19" value="原始记录&lt;div&gt;（存档）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-19" value="原始记录&lt;div&gt;（存档）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUI9kCOPl-98wD3Ftamx-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-21" value="结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
