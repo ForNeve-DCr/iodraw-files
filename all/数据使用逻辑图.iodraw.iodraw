@@ -16,8 +16,14 @@
         <mxCell id="SUI9kCOPl-98wD3Ftamx-2" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUI9kCOPl-98wD3Ftamx-4" target="SUI9kCOPl-98wD3Ftamx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SUI9kCOPl-98wD3Ftamx-4" value="数据解析&lt;div&gt;（处理规则更新、本地不适合解析内容）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUI9kCOPl-98wD3Ftamx-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
