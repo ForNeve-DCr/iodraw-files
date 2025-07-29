@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P5LKPvO3l_CSmgcFr2dd-19" value="本地计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-19" value="本地解析引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="P5LKPvO3l_CSmgcFr2dd-21" edge="1">
@@ -138,7 +138,7 @@
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-52" value="采集插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P5LKPvO3l_CSmgcFr2dd-53" value="计算规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-53" value="解析规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-54" value="同步插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
