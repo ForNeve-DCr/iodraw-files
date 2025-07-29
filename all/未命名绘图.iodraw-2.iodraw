@@ -112,6 +112,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5LKPvO3l_CSmgcFr2dd-29" target="P5LKPvO3l_CSmgcFr2dd-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="110" />
+              <mxPoint x="720" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-29" value="终端平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="120" width="120" height="60" as="geometry" />
         </mxCell>
