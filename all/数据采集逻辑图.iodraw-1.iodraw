@@ -307,8 +307,11 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-48" value="单元格2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="950" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-52" value="表格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-52" value="图片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-54" value="表格1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
