@@ -141,8 +141,8 @@
         <mxCell id="P5LKPvO3l_CSmgcFr2dd-53" value="计算规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P5LKPvO3l_CSmgcFr2dd-54" value="采集插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="P5LKPvO3l_CSmgcFr2dd-54" value="同步插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
