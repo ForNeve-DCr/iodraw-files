@@ -197,6 +197,9 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-71" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="998.0000000000001" y="1083" width="36.59" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-73" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="65" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
