@@ -284,10 +284,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-115" value="微信 等服务" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="370" y="410" width="120" height="120" as="geometry" />
+          <mxGeometry x="370" y="416" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-12" target="adBF95_QCQsZOT0V4HU5-115">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="640" />
+              <mxPoint x="430" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
