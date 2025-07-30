@@ -423,6 +423,9 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-94" value="远程控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-95" target="fvWStRXUa0gQb8GFFxaV-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-95" value="结果生成监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -444,7 +447,7 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-104" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-105" value="数据推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="594.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
