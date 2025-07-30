@@ -257,7 +257,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-99" target="adBF95_QCQsZOT0V4HU5-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-102" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-102" value="10.16.4.228" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="710" y="860" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
