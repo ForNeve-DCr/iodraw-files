@@ -31,8 +31,8 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateway_Containers.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="265" width="105.86" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="50" height="41" as="geometry" />
+        <mxCell id="adBF95_QCQsZOT0V4HU5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="26" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
