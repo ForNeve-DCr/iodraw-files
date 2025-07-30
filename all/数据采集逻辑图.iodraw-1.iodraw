@@ -245,6 +245,9 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-87" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="1187.93" y="1001.5" width="36.59" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
