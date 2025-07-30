@@ -331,8 +331,11 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-64" value="任务执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-65" value="任务执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-65" value="……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-66" value="任务执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
