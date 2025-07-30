@@ -232,7 +232,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-83" value="LIms Services" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="1203.0000000000002" y="1226" width="104.17" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-84" target="adBF95_QCQsZOT0V4HU5-80">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-84" target="adBF95_QCQsZOT0V4HU5-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1066.0700000000002" y="1170" />
@@ -240,10 +240,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-84" target="adBF95_QCQsZOT0V4HU5-79">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-84" target="adBF95_QCQsZOT0V4HU5-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-84" target="adBF95_QCQsZOT0V4HU5-78">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-84" target="adBF95_QCQsZOT0V4HU5-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1066.0700000000002" y="1170" />
