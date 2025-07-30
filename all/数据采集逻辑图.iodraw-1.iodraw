@@ -444,6 +444,12 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-102" value="手持终端&lt;div&gt;电子笔记本&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1930" y="420" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-104" target="fvWStRXUa0gQb8GFFxaV-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-104" target="fvWStRXUa0gQb8GFFxaV-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-104" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="510" width="120" height="60" as="geometry" />
         </mxCell>
