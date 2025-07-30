@@ -369,8 +369,8 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-75" value="存入网盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-79" value="现流程&lt;div&gt;流程推动纯人工&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-79" value="现流程&lt;div&gt;流程推动纯人工&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="10" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
