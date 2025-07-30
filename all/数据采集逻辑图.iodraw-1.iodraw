@@ -131,7 +131,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-8" value="文件预览服务" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="1302.07" y="426.5" width="104.17" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-12">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1073" y="360" />
@@ -266,7 +266,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-99" value="端口8023" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl087a_3810m_2930m_1_port_40gbe_qsfpplus_module;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1008.5" y="920" width="123" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-99" target="adBF95_QCQsZOT0V4HU5-84">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-99" target="adBF95_QCQsZOT0V4HU5-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-102" value="10.16.4.228" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
