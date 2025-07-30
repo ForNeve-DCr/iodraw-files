@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-115" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="69" height="72" as="geometry" />
+          <mxGeometry x="370" y="410" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
