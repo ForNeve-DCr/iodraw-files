@@ -86,26 +86,8 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="400" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.531;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-1" target="adBF95_QCQsZOT0V4HU5-73">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="970" y="60" />
-              <mxPoint x="1073" y="60" />
-              <mxPoint x="1073" y="83" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="917.93" y="-40" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-2" target="adBF95_QCQsZOT0V4HU5-73">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="60" />
-              <mxPoint x="1073" y="60" />
-              <mxPoint x="1073" y="81" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1157.93" y="-36.5" width="40.5" height="63" as="geometry" />
@@ -200,7 +182,7 @@
           <mxGeometry x="998.0000000000001" y="1083" width="36.59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-73" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" vertex="1" parent="1">
-          <mxGeometry x="1040.5" y="120" width="65" height="64" as="geometry" />
+          <mxGeometry x="1037.58" y="106" width="65" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
