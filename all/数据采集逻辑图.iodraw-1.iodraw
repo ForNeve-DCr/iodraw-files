@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-13" target="adBF95_QCQsZOT0V4HU5-99">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-13" target="adBF95_QCQsZOT0V4HU5-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="973" y="700" />
@@ -275,7 +275,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-103" value="迁移服务器" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="700" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-12" target="adBF95_QCQsZOT0V4HU5-99">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-12" target="adBF95_QCQsZOT0V4HU5-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="785" y="700" />
