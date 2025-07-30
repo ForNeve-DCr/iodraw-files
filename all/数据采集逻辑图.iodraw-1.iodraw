@@ -251,8 +251,8 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-87" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="1185.0800000000002" y="1271.5" width="36.59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-95" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="1">
-          <mxGeometry x="993" y="1010" width="160" height="15" as="geometry" />
+        <mxCell id="adBF95_QCQsZOT0V4HU5-95" value="端口8023" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="1">
+          <mxGeometry x="990.08" y="920" width="160" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
