@@ -77,10 +77,16 @@
           <mxGeometry x="260" y="265" width="105.86" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-36" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="520" y="100" width="50" height="41" as="geometry" />
+          <mxGeometry x="420" y="100" width="36.59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="200" width="150" height="150" as="geometry" />
+        <mxCell id="adBF95_QCQsZOT0V4HU5-38" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="249.5" width="36.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-39" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="36.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-40" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="36.59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
