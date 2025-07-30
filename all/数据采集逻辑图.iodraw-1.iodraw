@@ -101,8 +101,8 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-2" target="adBF95_QCQsZOT0V4HU5-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1180" y="200" />
-              <mxPoint x="1073" y="200" />
+              <mxPoint x="1180" y="60" />
+              <mxPoint x="1073" y="60" />
               <mxPoint x="1073" y="81" />
             </Array>
           </mxGeometry>
@@ -200,7 +200,7 @@
           <mxGeometry x="998.0000000000001" y="1083" width="36.59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-73" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="80" width="65" height="64" as="geometry" />
+          <mxGeometry x="1040.5" y="120" width="65" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
