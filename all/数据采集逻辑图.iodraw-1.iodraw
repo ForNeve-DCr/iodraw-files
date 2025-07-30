@@ -74,7 +74,7 @@
           <mxGeometry x="440" y="574.5" width="104.17" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateway_Containers.svg;" vertex="1" parent="1">
-          <mxGeometry x="260" y="265" width="105.86" height="100" as="geometry" />
+          <mxGeometry x="250" y="320" width="105.86" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-36" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="420" y="100" width="36.59" height="30" as="geometry" />
