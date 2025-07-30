@@ -184,6 +184,14 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-73" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" vertex="1" parent="1">
           <mxGeometry x="1037.58" y="106" width="65" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-1" target="adBF95_QCQsZOT0V4HU5-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="968" y="70" />
+              <mxPoint x="1071" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
