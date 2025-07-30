@@ -40,12 +40,6 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="224.5" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-12" target="adBF95_QCQsZOT0V4HU5-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-12" target="adBF95_QCQsZOT0V4HU5-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="404.5" width="150" height="150" as="geometry" />
         </mxCell>
@@ -72,15 +66,6 @@
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-8" value="文件预览服务" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="440" y="549" width="104.17" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-14">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-9" value="TongHttpServer" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateway_Containers.svg;" vertex="1" parent="1">
           <mxGeometry x="1020" y="229" width="105.86" height="100" as="geometry" />
