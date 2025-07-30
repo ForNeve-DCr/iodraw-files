@@ -255,7 +255,7 @@
           <mxGeometry x="990.08" y="920" width="160" height="15" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-99" value="端口8023" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl087a_3810m_2930m_1_port_40gbe_qsfpplus_module;" vertex="1" parent="1">
-          <mxGeometry x="706" y="880" width="41" height="15" as="geometry" />
+          <mxGeometry x="796" y="990" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
