@@ -260,7 +260,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-102" value="10.16.4.228" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="700" y="885" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-103" value="10.16.4.228" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-103" value="迁移服务器" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="700" y="220" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
