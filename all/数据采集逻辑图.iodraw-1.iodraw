@@ -7,6 +7,9 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="100" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="40.5" height="63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
