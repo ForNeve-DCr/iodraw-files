@@ -76,6 +76,12 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateway_Containers.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="324.5" width="105.86" height="100" as="geometry" />
         </mxCell>
