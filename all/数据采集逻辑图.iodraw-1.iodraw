@@ -155,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-15">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-9" target="adBF95_QCQsZOT0V4HU5-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1073" y="360" />
@@ -190,7 +190,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-73" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" vertex="1" parent="1">
           <mxGeometry x="1037.58" y="106" width="65" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-1" target="adBF95_QCQsZOT0V4HU5-73">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="adBF95_QCQsZOT0V4HU5-1" target="adBF95_QCQsZOT0V4HU5-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="968" y="70" />
