@@ -51,7 +51,7 @@
         <mxCell id="UkEtQD76EwArJl2WSCeS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UkEtQD76EwArJl2WSCeS-10" target="UkEtQD76EwArJl2WSCeS-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UkEtQD76EwArJl2WSCeS-10" value="……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UkEtQD76EwArJl2WSCeS-10" value="设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UkEtQD76EwArJl2WSCeS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UkEtQD76EwArJl2WSCeS-11" target="UkEtQD76EwArJl2WSCeS-21">
@@ -66,7 +66,7 @@
         <mxCell id="UkEtQD76EwArJl2WSCeS-16" value="解析规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UkEtQD76EwArJl2WSCeS-17" value="……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UkEtQD76EwArJl2WSCeS-17" value="解析规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UkEtQD76EwArJl2WSCeS-18" value="解析规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,13 +78,13 @@
         <mxCell id="UkEtQD76EwArJl2WSCeS-28" value="预设解析结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UkEtQD76EwArJl2WSCeS-29" value="解析结果列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UkEtQD76EwArJl2WSCeS-29" value="预设解析结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UkEtQD76EwArJl2WSCeS-30" value="……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UkEtQD76EwArJl2WSCeS-31" value="解析结果列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UkEtQD76EwArJl2WSCeS-31" value="预设解析结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
