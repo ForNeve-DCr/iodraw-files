@@ -254,7 +254,7 @@
         <mxCell id="adBF95_QCQsZOT0V4HU5-95" value="端口8023" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="1">
           <mxGeometry x="990.08" y="920" width="160" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="adBF95_QCQsZOT0V4HU5-99" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl087a_3810m_2930m_1_port_40gbe_qsfpplus_module;" vertex="1" parent="1">
+        <mxCell id="adBF95_QCQsZOT0V4HU5-99" value="端口8023" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl087a_3810m_2930m_1_port_40gbe_qsfpplus_module;" vertex="1" parent="1">
           <mxGeometry x="706" y="880" width="41" height="15" as="geometry" />
         </mxCell>
       </root>
