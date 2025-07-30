@@ -466,8 +466,8 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-110" value="人员提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-114" value="现流程&lt;div&gt;流程推动纯人工&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="20" width="90" height="30" as="geometry" />
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-114" value="预想流程&lt;div&gt;任务执行后，&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="320" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
