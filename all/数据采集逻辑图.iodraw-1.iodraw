@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="adBF95_QCQsZOT0V4HU5-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="169.5" width="150" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="20" width="360" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629.05" y="313" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="adBF95_QCQsZOT0V4HU5-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="169.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="469.5" width="150" height="150" as="geometry" />
@@ -41,7 +44,7 @@
           <mxGeometry x="650" y="354.5" width="108.1" height="80" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-7" value="Tendis Or TongRDS" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="656.4300000000001" y="194.5" width="95.24" height="80" as="geometry" />
+          <mxGeometry x="657.3800000000001" y="194.5" width="95.24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="adBF95_QCQsZOT0V4HU5-8" value="文件预览服务" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="440" y="494.5" width="104.17" height="100" as="geometry" />
