@@ -522,8 +522,8 @@
         <mxCell id="CUpTJVu7Qmq5282SY1dm-15" value="检测人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1870" y="5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUpTJVu7Qmq5282SY1dm-16" value="检测人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="5" width="60" height="30" as="geometry" />
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-16" value="报告编写人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
