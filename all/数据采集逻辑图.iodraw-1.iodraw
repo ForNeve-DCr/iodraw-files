@@ -7,6 +7,9 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1450" y="310" width="1430" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2195" y="325" width="315" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1640" y="325" width="540" height="340" as="geometry" />
         </mxCell>
@@ -540,9 +543,6 @@
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-15" value="检测人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1870" y="5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CUpTJVu7Qmq5282SY1dm-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2195" y="325" width="180" height="340" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-16" value="报告编写人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2210" y="5" width="80" height="30" as="geometry" />
