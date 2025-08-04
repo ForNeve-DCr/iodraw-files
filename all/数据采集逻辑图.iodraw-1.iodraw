@@ -520,10 +520,10 @@
           <mxGeometry x="2140" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-15" value="检测人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="5" width="50" height="30" as="geometry" />
+          <mxGeometry x="1870" y="5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-16" value="检测人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="15" width="50" height="30" as="geometry" />
+          <mxGeometry x="2230" y="5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
