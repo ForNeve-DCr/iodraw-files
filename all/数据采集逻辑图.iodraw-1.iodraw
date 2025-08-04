@@ -14,7 +14,7 @@
           <mxGeometry x="1440" y="-70" width="910" height="370" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="-120" width="860" height="410" as="geometry" />
+          <mxGeometry x="1450" y="5" width="460" height="290" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="10" width="120" height="280" as="geometry" />
@@ -400,7 +400,7 @@
           <mxGeometry x="1800" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-79" value="现流程&lt;div&gt;流程推动纯人工&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="10" width="90" height="30" as="geometry" />
+          <mxGeometry x="2240" y="-60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="320" width="120" height="280" as="geometry" />
