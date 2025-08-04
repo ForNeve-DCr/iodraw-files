@@ -496,10 +496,8 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-105" value="数据推送&lt;div&gt;（原 存入网盘）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1830" y="594.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fvWStRXUa0gQb8GFFxaV-110" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2315" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-110" target="CUpTJVu7Qmq5282SY1dm-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-110" value="人员提醒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2120" y="430" width="120" height="60" as="geometry" />
@@ -546,7 +544,7 @@
           <mxGeometry x="2210" y="5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-17" value="绑定任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2395" y="559.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2300" y="559.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="CUpTJVu7Qmq5282SY1dm-21" target="CUpTJVu7Qmq5282SY1dm-17">
           <mxGeometry relative="1" as="geometry" />
