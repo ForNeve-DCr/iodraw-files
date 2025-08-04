@@ -20,7 +20,7 @@
           <mxGeometry x="1940" y="5" width="350" height="285" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="5" width="480" height="285" as="geometry" />
+          <mxGeometry x="1620" y="5" width="310" height="285" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="10" width="120" height="280" as="geometry" />
@@ -563,7 +563,7 @@
           <mxGeometry x="2370" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-25" value="原始数据平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="325" width="80" height="30" as="geometry" />
+          <mxGeometry x="2590" y="325" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-26" value="生成原始记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2530" y="430" width="120" height="60" as="geometry" />
