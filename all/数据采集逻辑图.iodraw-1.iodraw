@@ -405,7 +405,7 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-67" value="依次导出结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUpTJVu7Qmq5282SY1dm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-75" target="CUpTJVu7Qmq5282SY1dm-4">
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="fvWStRXUa0gQb8GFFxaV-75" target="CUpTJVu7Qmq5282SY1dm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-75" value="存入网盘" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -573,6 +573,9 @@
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-29" value="检测人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2450" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2535" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
