@@ -598,7 +598,7 @@
         <mxCell id="CUpTJVu7Qmq5282SY1dm-41" value="报告编写人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2705" y="325" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUpTJVu7Qmq5282SY1dm-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CUpTJVu7Qmq5282SY1dm-43" target="CUpTJVu7Qmq5282SY1dm-45">
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="CUpTJVu7Qmq5282SY1dm-43" target="CUpTJVu7Qmq5282SY1dm-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-43" value="生成报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -606,6 +606,9 @@
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-45" value="数据填充引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="325" width="165" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
