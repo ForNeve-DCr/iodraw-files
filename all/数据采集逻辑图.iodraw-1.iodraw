@@ -11,7 +11,7 @@
           <mxGeometry x="2300" y="325" width="315" height="340" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="325" width="640" height="340" as="geometry" />
+          <mxGeometry x="1640" y="325" width="330" height="340" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-78" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1440" y="-40" width="860" height="340" as="geometry" />
@@ -512,7 +512,7 @@
           <mxGeometry x="2315" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-118" value="本地终端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="325" width="60" height="30" as="geometry" />
+          <mxGeometry x="1910" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CUpTJVu7Qmq5282SY1dm-2" target="CUpTJVu7Qmq5282SY1dm-4">
           <mxGeometry relative="1" as="geometry" />
