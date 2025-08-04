@@ -11,7 +11,7 @@
           <mxGeometry x="1970" y="325" width="300" height="340" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="325" width="315" height="340" as="geometry" />
+          <mxGeometry x="2270" y="325" width="180" height="340" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1640" y="325" width="330" height="340" as="geometry" />
@@ -438,7 +438,7 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-90" value="终端服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1800" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fvWStRXUa0gQb8GFFxaV-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fvWStRXUa0gQb8GFFxaV-94" target="fvWStRXUa0gQb8GFFxaV-102" edge="1">
+        <mxCell id="fvWStRXUa0gQb8GFFxaV-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fvWStRXUa0gQb8GFFxaV-94" target="fvWStRXUa0gQb8GFFxaV-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvWStRXUa0gQb8GFFxaV-94" value="远程控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -568,7 +568,7 @@
           <mxGeometry x="2635" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-29" value="检测人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2555" y="325" width="60" height="30" as="geometry" />
+          <mxGeometry x="2390" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2635" y="555" width="120" height="60" as="geometry" />
