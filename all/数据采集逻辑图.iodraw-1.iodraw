@@ -7,6 +7,9 @@
         <mxCell id="fvWStRXUa0gQb8GFFxaV-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1450" y="310" width="1550" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="325" width="165" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2615" y="325" width="165" height="340" as="geometry" />
         </mxCell>
@@ -607,8 +610,8 @@
         <mxCell id="CUpTJVu7Qmq5282SY1dm-45" value="数据填充引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUpTJVu7Qmq5282SY1dm-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2780" y="325" width="165" height="340" as="geometry" />
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-48" value="原始数据平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2865" y="325" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
