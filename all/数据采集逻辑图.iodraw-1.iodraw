@@ -578,7 +578,7 @@
           <mxGeometry x="2390" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-31" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2472.5" y="554.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2472.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-34" value="终端平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2210" y="325" width="60" height="30" as="geometry" />
@@ -598,8 +598,11 @@
         <mxCell id="CUpTJVu7Qmq5282SY1dm-41" value="报告编写人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2705" y="325" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUpTJVu7Qmq5282SY1dm-43" value="生成原始记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-43" value="生成报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUpTJVu7Qmq5282SY1dm-45" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
