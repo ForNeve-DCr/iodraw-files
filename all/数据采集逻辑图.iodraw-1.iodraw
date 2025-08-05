@@ -8,7 +8,7 @@
           <mxGeometry x="1450" y="310" width="1650" height="750" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2780" y="325" width="165" height="340" as="geometry" />
+          <mxGeometry x="1640" y="710" width="165" height="340" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2615" y="325" width="165" height="340" as="geometry" />
@@ -605,13 +605,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-43" value="生成报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1660" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-45" value="数据填充引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1660" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUpTJVu7Qmq5282SY1dm-48" value="报告平台&lt;div&gt;(本期不含)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2865" y="325" width="80" height="30" as="geometry" />
+          <mxGeometry x="1725" y="710" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
