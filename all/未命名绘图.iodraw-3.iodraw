@@ -46,8 +46,11 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-33" value="XX上传插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-36" value="终端平台接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-38" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="980" y="120" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
