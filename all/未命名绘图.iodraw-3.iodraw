@@ -49,13 +49,13 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-36" target="fpQKKiV3KD8DnKjQ4mAX-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-36" target="fpQKKiV3KD8DnKjQ4mAX-38">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;dashed=1;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-36" target="fpQKKiV3KD8DnKjQ4mAX-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-36" value="终端平台接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-38" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-38" value="文档数据" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="980" y="190" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-39" target="fpQKKiV3KD8DnKjQ4mAX-41">
