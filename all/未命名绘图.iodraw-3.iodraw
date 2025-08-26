@@ -58,10 +58,10 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-39" target="fpQKKiV3KD8DnKjQ4mAX-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-39" value="数据解析配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-39" value="数据提取配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-41" value="原始数据模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-41" value="原始记录&lt;div&gt;（计算与结构配置)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
