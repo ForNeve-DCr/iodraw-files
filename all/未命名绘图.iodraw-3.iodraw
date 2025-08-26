@@ -105,6 +105,19 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-52" value="PDF解析器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="110" as="sourcePoint" />
+            <mxPoint x="1190" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="110" />
+              <mxPoint x="1140" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-56" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
