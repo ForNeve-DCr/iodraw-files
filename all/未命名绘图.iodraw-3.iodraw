@@ -108,14 +108,11 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-48" value="Excel解析器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-50" target="fpQKKiV3KD8DnKjQ4mAX-39">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-50" target="fpQKKiV3KD8DnKjQ4mAX-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-50" value="Word解析器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-52" target="fpQKKiV3KD8DnKjQ4mAX-39">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-52" value="PDF解析器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="460" width="120" height="60" as="geometry" />
