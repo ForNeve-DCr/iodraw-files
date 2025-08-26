@@ -237,6 +237,9 @@
             <mxPoint x="1957" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-91" value="段落数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="-40" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
