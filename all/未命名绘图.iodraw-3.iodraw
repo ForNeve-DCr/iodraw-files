@@ -295,8 +295,17 @@
             <mxPoint x="2033" y="77.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-131" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-131" value="报告模板" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="1930" y="55" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-132" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="125" as="sourcePoint" />
+            <mxPoint x="1307" y="58" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1990" y="-60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
