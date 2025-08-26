@@ -55,7 +55,7 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-38" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="990" y="110" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-39" value="终端平台接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-39" value="数据解析配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
