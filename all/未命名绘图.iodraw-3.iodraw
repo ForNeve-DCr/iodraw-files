@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.veeam_plugin_for_oracle_rman;" vertex="1" parent="1">
-          <mxGeometry x="110" y="220" width="34" height="34" as="geometry" />
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-2" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
