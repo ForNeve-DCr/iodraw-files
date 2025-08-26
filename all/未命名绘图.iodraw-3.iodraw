@@ -7,6 +7,9 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1287.5" y="-55" width="165" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-54" target="fpQKKiV3KD8DnKjQ4mAX-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="240" width="200" height="300" as="geometry" />
         </mxCell>
@@ -108,7 +111,7 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-52" value="PDF解析器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-38">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-38" target="fpQKKiV3KD8DnKjQ4mAX-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1140" y="110" as="sourcePoint" />
             <mxPoint x="1190" y="60" as="targetPoint" />
