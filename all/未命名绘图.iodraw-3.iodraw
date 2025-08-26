@@ -102,6 +102,9 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-52" value="PDF解析器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
