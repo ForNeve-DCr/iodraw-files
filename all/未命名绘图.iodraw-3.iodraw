@@ -283,8 +283,8 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-111" value="数据6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1805" y="168" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-128" value="零散数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="-30" width="60" height="30" as="geometry" />
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-128" value="结构化数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-30" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
