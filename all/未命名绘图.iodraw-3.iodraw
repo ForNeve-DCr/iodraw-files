@@ -28,14 +28,17 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-25" value="数据采集插件端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-29" target="fpQKKiV3KD8DnKjQ4mAX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-29" target="fpQKKiV3KD8DnKjQ4mAX-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-29" value="数据上传插件接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="460" width="120" height="60" as="geometry" />
