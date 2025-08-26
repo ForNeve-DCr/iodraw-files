@@ -240,6 +240,9 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-91" value="零散数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1550" y="-40" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=1.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-39" target="fpQKKiV3KD8DnKjQ4mAX-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
