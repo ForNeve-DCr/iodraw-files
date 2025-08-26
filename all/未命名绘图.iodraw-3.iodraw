@@ -253,9 +253,6 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-97" target="fpQKKiV3KD8DnKjQ4mAX-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-97" target="fpQKKiV3KD8DnKjQ4mAX-123">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-97" value="文档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1670" y="-180" width="60" height="30" as="geometry" />
         </mxCell>
@@ -330,21 +327,6 @@
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-121" value="单元格2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1880" y="209" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-123" target="fpQKKiV3KD8DnKjQ4mAX-125">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-123" value="图片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="239" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpQKKiV3KD8DnKjQ4mAX-125" target="fpQKKiV3KD8DnKjQ4mAX-126">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-125" value="图片1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="279" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-126" value="Phote1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="279" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
