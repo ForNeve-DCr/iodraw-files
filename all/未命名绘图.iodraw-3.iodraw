@@ -7,8 +7,11 @@
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-4" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;文件夹监听插件&lt;/b&gt;&lt;/font&gt;" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-6" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;文件夹监听插件&lt;/b&gt;&lt;/font&gt;" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-6" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;未来拓展插件&lt;/b&gt;&lt;/font&gt;" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-7" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;未来拓展插件&lt;/b&gt;&lt;/font&gt;" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
