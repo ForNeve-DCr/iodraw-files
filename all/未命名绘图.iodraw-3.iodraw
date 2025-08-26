@@ -4,20 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-4" value="&lt;font face=&quot;Comic Sans MS&quot; size=&quot;3&quot;&gt;&lt;b style=&quot;&quot;&gt;文件夹监听插件&lt;/b&gt;&lt;/font&gt;" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-6" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;未来拓展插件&lt;/b&gt;&lt;/font&gt;" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="120" y="420" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQKKiV3KD8DnKjQ4mAX-7" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;未来拓展插件&lt;/b&gt;&lt;/font&gt;" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="120" y="560" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-9" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;文件夹监听插件&lt;/b&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_m" vertex="1" parent="1">
-          <mxGeometry x="280" y="304.8" width="120" height="115.2" as="geometry" />
+          <mxGeometry x="120" y="280" width="120" height="115.2" as="geometry" />
         </mxCell>
         <mxCell id="fpQKKiV3KD8DnKjQ4mAX-10" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;文件夹监听插件&lt;/b&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_m" vertex="1" parent="1">
-          <mxGeometry x="400" y="740" width="120" height="115.2" as="geometry" />
+          <mxGeometry x="120" y="480" width="120" height="115.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
