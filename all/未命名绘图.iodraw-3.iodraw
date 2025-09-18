@@ -38,7 +38,7 @@
         <mxCell id="v2ja98823-LzvkaBznEg-9" value="192.168.1.153&lt;br&gt;仓库服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v2ja98823-LzvkaBznEg-10" value="192.168.1.153&lt;br&gt;文件服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+        <mxCell id="v2ja98823-LzvkaBznEg-10" value="192.168.1.XXX&lt;br&gt;文件服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="800" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
