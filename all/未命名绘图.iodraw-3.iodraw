@@ -16,11 +16,11 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="400" />
-              <mxPoint x="80" y="400" />
+              <mxPoint x="120" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2ja98823-LzvkaBznEg-1" value="192.168.1.180&lt;div&gt;主节点&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+        <mxCell id="v2ja98823-LzvkaBznEg-1" value="192.168.1.166&lt;div&gt;主节点&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v2ja98823-LzvkaBznEg-2" value="192.168.1.182&lt;div&gt;子节点&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
