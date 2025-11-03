@@ -28,8 +28,8 @@
         <mxCell id="F-CZTamAogfHhjyfPerF-7" value="表格集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="300" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="F-CZTamAogfHhjyfPerF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="F-CZTamAogfHhjyfPerF-8" value="图片集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
