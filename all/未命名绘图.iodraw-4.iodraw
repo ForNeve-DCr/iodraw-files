@@ -55,11 +55,14 @@
             <mxPoint x="860" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F-CZTamAogfHhjyfPerF-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.837;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.324;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="F-CZTamAogfHhjyfPerF-11">
+        <mxCell id="F-CZTamAogfHhjyfPerF-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.837;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.162;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F-CZTamAogfHhjyfPerF-11" target="F-CZTamAogfHhjyfPerF-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="880" as="sourcePoint" />
             <mxPoint x="950" y="885" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F-CZTamAogfHhjyfPerF-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="255" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
