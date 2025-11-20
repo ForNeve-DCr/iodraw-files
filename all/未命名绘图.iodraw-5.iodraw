@@ -81,7 +81,7 @@
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-23" value="终端解析失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-25" value="二次判断&lt;div&gt;当前生效的解析规则 id + version 是否匹配&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
