@@ -28,7 +28,7 @@
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-3" value="已解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-l6GVUXZhkbJ_3SjUyKm-4" target="-l6GVUXZhkbJ_3SjUyKm-8">
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-l6GVUXZhkbJ_3SjUyKm-4" target="-l6GVUXZhkbJ_3SjUyKm-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-4" value="解析失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -68,7 +68,7 @@
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-22" value="终端解析成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-23" value="终端解析失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
