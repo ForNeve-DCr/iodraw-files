@@ -37,8 +37,8 @@
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="110" width="720" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-130" width="120" height="60" as="geometry" />
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-14" value="配置解析规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
