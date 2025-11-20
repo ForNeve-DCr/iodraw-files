@@ -8,7 +8,7 @@
           <mxGeometry x="250" y="-230" width="720" height="780" as="geometry" />
         </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="-230" width="340" height="790" as="geometry" />
+          <mxGeometry x="-130" y="-230" width="340" height="920" as="geometry" />
         </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-l6GVUXZhkbJ_3SjUyKm-1" target="-l6GVUXZhkbJ_3SjUyKm-2">
           <mxGeometry relative="1" as="geometry" />
@@ -81,10 +81,16 @@
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-22" value="终端解析成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-l6GVUXZhkbJ_3SjUyKm-23" target="-l6GVUXZhkbJ_3SjUyKm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-23" value="终端解析失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-l6GVUXZhkbJ_3SjUyKm-25" target="-l6GVUXZhkbJ_3SjUyKm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-l6GVUXZhkbJ_3SjUyKm-25" target="-l6GVUXZhkbJ_3SjUyKm-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-25" value="二次判断&lt;div&gt;当前生效的解析规则 id + version 是否匹配&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,7 +99,7 @@
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-27" value="已解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-29" value="重新解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
