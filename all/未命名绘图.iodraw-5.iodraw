@@ -65,8 +65,11 @@
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-20" value="拉取新版解析规则" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-22" value="终端解析成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
