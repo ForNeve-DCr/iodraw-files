@@ -46,14 +46,20 @@
         </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-17" value="心跳返回解析规则 id + version" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-l6GVUXZhkbJ_3SjUyKm-16">
           <mxGeometry x="0.1407" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-14" value="配置解析规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-l6GVUXZhkbJ_3SjUyKm-15" target="-l6GVUXZhkbJ_3SjUyKm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-l6GVUXZhkbJ_3SjUyKm-15" value="得到解析过时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l6GVUXZhkbJ_3SjUyKm-18" value="得到解析过时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
