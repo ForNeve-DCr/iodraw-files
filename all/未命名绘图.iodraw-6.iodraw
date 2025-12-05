@@ -19,11 +19,14 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-8" value="数据数量 &amp;gt; 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-10" value="参数列表展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-11" value="参数列表展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
