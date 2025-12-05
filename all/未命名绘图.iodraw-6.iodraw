@@ -160,7 +160,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-65" value="自动生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-65" value="自动生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="850" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-70" value="二期 - 一阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -175,7 +175,7 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="avDPIDYaea2_cmCrG3L2-70" source="avDPIDYaea2_cmCrG3L2-61" target="avDPIDYaea2_cmCrG3L2-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-78" target="avDPIDYaea2_cmCrG3L2-65">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-78" target="avDPIDYaea2_cmCrG3L2-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-85" value="符合条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="avDPIDYaea2_cmCrG3L2-84">
@@ -183,10 +183,10 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-78" value="模板计分排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-78" value="模板计分排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1081" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-63" target="avDPIDYaea2_cmCrG3L2-78">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-63" target="avDPIDYaea2_cmCrG3L2-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-86" target="avDPIDYaea2_cmCrG3L2-88">
