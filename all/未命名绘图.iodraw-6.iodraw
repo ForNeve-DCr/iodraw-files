@@ -131,7 +131,7 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-53" value="引入参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-55" value="引入参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-55" value="构建表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
