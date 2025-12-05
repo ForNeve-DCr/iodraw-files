@@ -28,6 +28,48 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-11" value="参数列表展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-12" value="Edit" style="rounded=1;fillColor=#0065FF;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="50" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-13" value="Comment" style="rounded=1;fillColor=#F1F2F4;align=center;strokeColor=none;html=1;fontColor=#596780;fontSize=12;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="190" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-14" value="Assign" style="rounded=1;fillColor=#F1F2F4;align=center;strokeColor=none;html=1;fontColor=#596780;fontSize=12;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="70" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-15" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#F1F2F4;strokeColor=#ffffff;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="455" y="190" width="240" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-16" value="In Progress" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=0;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="avDPIDYaea2_cmCrG3L2-15">
+          <mxGeometry width="90" height="33" relative="1" as="geometry">
+            <mxPoint x="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-17" value="Workflow" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="avDPIDYaea2_cmCrG3L2-15">
+          <mxGeometry x="1" width="90" height="33" relative="1" as="geometry">
+            <mxPoint x="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-18" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="avDPIDYaea2_cmCrG3L2-17">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-19" value="Later" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="avDPIDYaea2_cmCrG3L2-15">
+          <mxGeometry width="60" height="33" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-20" value="" style="rounded=1;fillColor=#F1F2F4;align=center;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="56" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-21" value="" style="shape=ellipse;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="avDPIDYaea2_cmCrG3L2-20">
+          <mxGeometry x="15" y="13" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-22" value="" style="shape=ellipse;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="avDPIDYaea2_cmCrG3L2-20">
+          <mxGeometry x="25" y="13" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-23" value="" style="shape=ellipse;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="avDPIDYaea2_cmCrG3L2-20">
+          <mxGeometry x="35" y="13" width="6" height="6" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
