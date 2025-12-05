@@ -155,11 +155,16 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-61" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-63" target="avDPIDYaea2_cmCrG3L2-65">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-63" target="avDPIDYaea2_cmCrG3L2-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1110" y="-370" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-68" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="avDPIDYaea2_cmCrG3L2-66">
+          <mxGeometry x="0.328" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-63" value="解析数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
