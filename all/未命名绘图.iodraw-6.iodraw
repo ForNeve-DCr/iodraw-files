@@ -181,8 +181,14 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-63" target="avDPIDYaea2_cmCrG3L2-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-86" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="avDPIDYaea2_cmCrG3L2-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-86" target="avDPIDYaea2_cmCrG3L2-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-86" value="选择数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-88" value="选择数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
