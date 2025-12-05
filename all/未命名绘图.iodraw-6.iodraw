@@ -164,6 +164,14 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="avDPIDYaea2_cmCrG3L2-70" source="avDPIDYaea2_cmCrG3L2-61" target="avDPIDYaea2_cmCrG3L2-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-78" target="avDPIDYaea2_cmCrG3L2-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-85" value="符合条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="avDPIDYaea2_cmCrG3L2-84">
+          <mxGeometry x="0.009" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-78" value="模板计分排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1081" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
