@@ -119,8 +119,14 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-51" value="名称(name)&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;数量（number）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="1440" y="470" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-52" target="avDPIDYaea2_cmCrG3L2-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-52" value="新建模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-53" value="引入参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
