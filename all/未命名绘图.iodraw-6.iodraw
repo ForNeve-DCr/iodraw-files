@@ -168,8 +168,8 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-65" value="解析数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="-700" width="120" height="60" as="geometry" />
+        <mxCell id="avDPIDYaea2_cmCrG3L2-70" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-760" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
