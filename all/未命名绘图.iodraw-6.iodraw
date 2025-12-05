@@ -146,6 +146,9 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-57" value="发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-59" target="avDPIDYaea2_cmCrG3L2-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-59" value="手动生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -169,7 +172,7 @@
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-85" value="符合条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="avDPIDYaea2_cmCrG3L2-84">
           <mxGeometry x="0.009" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-78" value="模板计分排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -177,6 +180,9 @@
         </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-63" target="avDPIDYaea2_cmCrG3L2-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-86" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
