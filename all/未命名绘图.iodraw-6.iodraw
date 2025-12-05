@@ -143,8 +143,8 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-57" value="发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avDPIDYaea2_cmCrG3L2-59" value="发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-560" width="120" height="60" as="geometry" />
+        <mxCell id="avDPIDYaea2_cmCrG3L2-59" value="手动生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
