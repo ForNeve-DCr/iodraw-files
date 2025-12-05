@@ -146,8 +146,14 @@
         <mxCell id="avDPIDYaea2_cmCrG3L2-59" value="手动生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avDPIDYaea2_cmCrG3L2-61" target="avDPIDYaea2_cmCrG3L2-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avDPIDYaea2_cmCrG3L2-61" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avDPIDYaea2_cmCrG3L2-63" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
