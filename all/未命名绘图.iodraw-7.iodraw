@@ -174,8 +174,11 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-82" value="部门1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-83" value="部门1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-83" value="部门2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-84" value="部门2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
