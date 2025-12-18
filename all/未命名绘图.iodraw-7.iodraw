@@ -151,7 +151,7 @@
           <mxGeometry x="1181" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-74" value="委托单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1450" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
