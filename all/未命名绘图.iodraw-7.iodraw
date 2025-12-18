@@ -216,8 +216,14 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-96" value="设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2430" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnGAFpvxvgH1A1kCTW5t-98" target="VnGAFpvxvgH1A1kCTW5t-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-98" value="检测结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2630" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-100" value="原始记录&lt;div&gt;现场图片&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
