@@ -73,8 +73,12 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-49" value="检测对象" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="374" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnGAFpvxvgH1A1kCTW5t-51" target="VnGAFpvxvgH1A1kCTW5t-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VnGAFpvxvgH1A1kCTW5t-51" target="VnGAFpvxvgH1A1kCTW5t-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-51" value="参数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
