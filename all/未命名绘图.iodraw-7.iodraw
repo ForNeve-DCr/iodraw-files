@@ -210,7 +210,7 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-92" value="人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-96" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-96" value="设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2430" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
