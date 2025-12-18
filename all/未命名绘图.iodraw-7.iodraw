@@ -129,7 +129,7 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-66" value="检测要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-68" value="前台&lt;div&gt;线上申请&lt;/div&gt;&lt;div&gt;客户经理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
