@@ -166,10 +166,10 @@
           <mxGeometry x="1650" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-78" value="&lt;div&gt;样品&lt;/div&gt;&lt;div&gt;转&lt;/div&gt;&lt;div&gt;检测对象&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1820" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-80" value="国家标准&lt;div&gt;转&lt;/div&gt;&lt;div&gt;检测项目&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1820" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-82" value="部门1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="220" width="120" height="60" as="geometry" />
