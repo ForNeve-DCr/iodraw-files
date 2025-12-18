@@ -50,7 +50,7 @@
           <mxGeometry x="40" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-39" value="设备/软件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="250" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-41" value="标准" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="340" width="120" height="60" as="geometry" />
