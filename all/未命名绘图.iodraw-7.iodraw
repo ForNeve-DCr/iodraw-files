@@ -150,7 +150,7 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-73" value="申请表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1181" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-74" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-74" value="委托单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1460" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
