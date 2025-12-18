@@ -56,9 +56,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="410" />
-              <mxPoint x="210" y="475" />
-              <mxPoint x="214" y="475" />
+              <mxPoint x="214" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,7 +114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-61" value="计量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
