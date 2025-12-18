@@ -49,9 +49,6 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-23" value="环境" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1560" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="230" width="69" height="56.00000000000001" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
