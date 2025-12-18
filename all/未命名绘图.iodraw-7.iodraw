@@ -159,14 +159,17 @@
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnGAFpvxvgH1A1kCTW5t-76" target="VnGAFpvxvgH1A1kCTW5t-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnGAFpvxvgH1A1kCTW5t-76" target="VnGAFpvxvgH1A1kCTW5t-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-76" value="项目经理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1650" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnGAFpvxvgH1A1kCTW5t-78" value="&lt;div&gt;样品&lt;/div&gt;&lt;div&gt;转&lt;/div&gt;&lt;div&gt;检测对象&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1840" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VnGAFpvxvgH1A1kCTW5t-80" value="国家标准&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="VnGAFpvxvgH1A1kCTW5t-80" value="国家标准&lt;div&gt;转&lt;/div&gt;&lt;div&gt;检测项目&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
