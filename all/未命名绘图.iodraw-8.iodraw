@@ -7,14 +7,17 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-1" value="原始记录" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-2" target="-oc5P5kwaqdAhHGG0WOa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Code.svg;" vertex="1" parent="1">
           <mxGeometry x="320" y="161" width="123.08" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.032;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-1" target="-oc5P5kwaqdAhHGG0WOa-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-oc5P5kwaqdAhHGG0WOa-16" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="171" width="120" height="80" as="geometry" />
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-16" value="结构化数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="171" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
