@@ -19,6 +19,9 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-16" value="结构化数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="171" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-18" target="-oc5P5kwaqdAhHGG0WOa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-18" value="报告模板" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="100" height="100" as="geometry" />
         </mxCell>
@@ -30,8 +33,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-20" target="-oc5P5kwaqdAhHGG0WOa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-20" value="数据填充" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Code.svg;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="123.08" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-21" value="结构化数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
