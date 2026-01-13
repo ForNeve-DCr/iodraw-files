@@ -157,7 +157,7 @@
         </mxCell>
         <mxCell id="kOV_uVWyS_NAvAIFW4YW-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kOV_uVWyS_NAvAIFW4YW-27">
           <mxGeometry x="-0.3783" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="53" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
