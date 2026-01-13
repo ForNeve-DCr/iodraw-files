@@ -84,9 +84,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-oc5P5kwaqdAhHGG0WOa-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-oc5P5kwaqdAhHGG0WOa-64">
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-66" value="加载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-oc5P5kwaqdAhHGG0WOa-64">
           <mxGeometry x="0.8824" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-28" value="配置信息" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-62" value="com.deepoove.poi.XWPFTemplate#render(java.lang.Object, java.io.OutputStream)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="585" width="630" height="200" as="geometry" />
+          <mxGeometry x="120" y="585" width="630" height="375" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
