@@ -79,7 +79,7 @@
         <mxCell id="kOV_uVWyS_NAvAIFW4YW-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;下载文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="30" y="350" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOV_uVWyS_NAvAIFW4YW-29" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;下载文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="kOV_uVWyS_NAvAIFW4YW-29" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;回调通知&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="30" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="OnlyOffice前端" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
