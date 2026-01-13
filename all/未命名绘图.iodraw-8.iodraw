@@ -130,8 +130,14 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-52" value="+&lt;div&gt;嵌套其他文档&lt;/div&gt;&lt;div&gt;DocxRenderPolicy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-46">
           <mxGeometry x="17" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-oc5P5kwaqdAhHGG0WOa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-oc5P5kwaqdAhHGG0WOa-46" source="-oc5P5kwaqdAhHGG0WOa-53" target="-oc5P5kwaqdAhHGG0WOa-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="-oc5P5kwaqdAhHGG0WOa-46" source="-oc5P5kwaqdAhHGG0WOa-53" target="-oc5P5kwaqdAhHGG0WOa-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="160" />
+              <mxPoint x="130" y="260" />
+              <mxPoint x="290" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-53" value="? 和 /&lt;div&gt;段落（特殊）&lt;/div&gt;&lt;div&gt;ParagraphRenderPolicy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-46">
           <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
