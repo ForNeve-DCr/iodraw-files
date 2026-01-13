@@ -50,8 +50,8 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-28" value="配置信息" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
           <mxGeometry x="600" y="-9" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="-oc5P5kwaqdAhHGG0WOa-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="135" width="420" height="430" as="geometry" />
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-38" value="" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="840" y="120" width="420" height="460" as="geometry" />
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-36" target="-oc5P5kwaqdAhHGG0WOa-38">
           <mxGeometry relative="1" as="geometry" />
