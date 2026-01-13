@@ -82,7 +82,7 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-50" value="#&lt;div&gt;表格&lt;/div&gt;&lt;div&gt;TableRenderPolicy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-46">
           <mxGeometry x="310" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-oc5P5kwaqdAhHGG0WOa-51" value="*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-46">
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-51" value="*&lt;div&gt;数字&lt;/div&gt;&lt;div&gt;NumberingRenderPolicy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-46">
           <mxGeometry x="450" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-52" value="+" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-46">
