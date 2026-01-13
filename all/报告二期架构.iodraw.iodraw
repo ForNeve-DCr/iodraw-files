@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="80" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-5" value="报告模板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="440" height="200" as="geometry" />
+          <mxGeometry x="320" y="520" width="440" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
