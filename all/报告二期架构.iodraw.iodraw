@@ -54,8 +54,14 @@
         <mxCell id="0TBdXVvUO0wIR00vHCJi-5" value="报告模板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="70" width="560" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="0TBdXVvUO0wIR00vHCJi-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-5">
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TBdXVvUO0wIR00vHCJi-5" source="0TBdXVvUO0wIR00vHCJi-37" target="0TBdXVvUO0wIR00vHCJi-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-37" value="报告编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-5">
           <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-5">
+          <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" edge="1" parent="1" source="0TBdXVvUO0wIR00vHCJi-1">
           <mxGeometry relative="1" as="geometry">
