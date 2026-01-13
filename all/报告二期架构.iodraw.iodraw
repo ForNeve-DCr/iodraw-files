@@ -4,26 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0TBdXVvUO0wIR00vHCJi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="0TBdXVvUO0wIR00vHCJi-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1310" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1150" y="260" />
-              <mxPoint x="1150" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0TBdXVvUO0wIR00vHCJi-43" value="标签参照" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TBdXVvUO0wIR00vHCJi-42">
-          <mxGeometry x="-0.3613" y="-3" relative="1" as="geometry">
-            <mxPoint x="-39" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0TBdXVvUO0wIR00vHCJi-1" target="0TBdXVvUO0wIR00vHCJi-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-48" value="对应关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TBdXVvUO0wIR00vHCJi-47">
           <mxGeometry x="-0.3273" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="0TBdXVvUO0wIR00vHCJi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-1" value="标签库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
