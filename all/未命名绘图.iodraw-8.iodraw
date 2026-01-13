@@ -7,6 +7,9 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-26" value="com.deepoove.poi.XWPFTemplate#compile(java.io.InputStream, com.deepoove.poi.config.Configure)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="720" height="630" as="geometry" />
         </mxCell>
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-26">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-27" target="-oc5P5kwaqdAhHGG0WOa-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -14,7 +17,12 @@
           <mxGeometry x="260" y="-20" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-28" target="-oc5P5kwaqdAhHGG0WOa-26">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="639" y="100" />
+              <mxPoint x="480" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-28" value="配置信息" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
           <mxGeometry x="600" y="-9" width="78" height="78" as="geometry" />
