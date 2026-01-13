@@ -71,7 +71,7 @@
         <mxCell id="0TBdXVvUO0wIR00vHCJi-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TBdXVvUO0wIR00vHCJi-5" source="0TBdXVvUO0wIR00vHCJi-37" target="0TBdXVvUO0wIR00vHCJi-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0TBdXVvUO0wIR00vHCJi-37" value="报告编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-5">
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-37" value="报告文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-5">
           <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TBdXVvUO0wIR00vHCJi-5" source="0TBdXVvUO0wIR00vHCJi-38" target="0TBdXVvUO0wIR00vHCJi-40">
@@ -97,6 +97,9 @@
           <mxGeometry x="-0.5333" y="-21" relative="1" as="geometry">
             <mxPoint x="26" y="39" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
