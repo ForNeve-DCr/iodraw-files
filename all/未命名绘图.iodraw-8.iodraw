@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-26" value="com.deepoove.poi.XWPFTemplate#compile(java.io.InputStream, com.deepoove.poi.config.Configure)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="630" height="630" as="geometry" />
+          <mxGeometry x="120" y="120" width="630" height="420" as="geometry" />
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-oc5P5kwaqdAhHGG0WOa-26" source="-oc5P5kwaqdAhHGG0WOa-31" target="-oc5P5kwaqdAhHGG0WOa-32">
           <mxGeometry relative="1" as="geometry" />
