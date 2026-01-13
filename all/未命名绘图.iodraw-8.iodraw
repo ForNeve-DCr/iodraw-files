@@ -147,7 +147,7 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-68" value="RenderDataCompute" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-62">
           <mxGeometry x="210" y="35" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="-oc5P5kwaqdAhHGG0WOa-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-68">
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-69" value="DefaultELRenderDataCompute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-68">
           <mxGeometry x="25" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-68">
