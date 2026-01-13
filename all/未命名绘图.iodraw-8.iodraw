@@ -24,7 +24,7 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-32" value="图片合集&lt;div&gt;表格合集&lt;/div&gt;&lt;div&gt;内容控件合集&lt;/div&gt;&lt;div&gt;段落合集&lt;/div&gt;&lt;div&gt;页面合集&lt;/div&gt;&lt;div&gt;页脚合集&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-26">
           <mxGeometry x="480" y="40" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-oc5P5kwaqdAhHGG0WOa-34" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-26">
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-34" value="构造渲染器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-26">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-27" target="-oc5P5kwaqdAhHGG0WOa-26">
