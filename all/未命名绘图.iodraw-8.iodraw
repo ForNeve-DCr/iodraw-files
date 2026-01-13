@@ -112,6 +112,9 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-44" value="标签构成" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="290" width="580" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-46" target="-oc5P5kwaqdAhHGG0WOa-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-46" value="com.deepoove.poi.config.Configure#Configure" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="480" width="580" height="210" as="geometry" />
         </mxCell>
