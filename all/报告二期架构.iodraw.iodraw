@@ -7,6 +7,9 @@
         <mxCell id="0TBdXVvUO0wIR00vHCJi-1" value="标签库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="440" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
