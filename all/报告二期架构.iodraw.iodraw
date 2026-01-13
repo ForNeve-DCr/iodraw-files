@@ -45,6 +45,9 @@
         <mxCell id="0TBdXVvUO0wIR00vHCJi-14" value="解析器-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
           <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0TBdXVvUO0wIR00vHCJi-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
+          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-5" value="报告模板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="440" height="200" as="geometry" />
         </mxCell>
@@ -59,7 +62,7 @@
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-34" value="标签参照" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TBdXVvUO0wIR00vHCJi-33">
           <mxGeometry x="-0.5333" y="-21" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
