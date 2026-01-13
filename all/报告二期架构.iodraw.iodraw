@@ -36,13 +36,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-6" value="数据文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
-          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0TBdXVvUO0wIR00vHCJi-4" source="0TBdXVvUO0wIR00vHCJi-22" target="0TBdXVvUO0wIR00vHCJi-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
-          <mxGeometry x="340" y="40" width="160" height="250" as="geometry" />
+          <mxGeometry x="170" y="40" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0TBdXVvUO0wIR00vHCJi-4" source="0TBdXVvUO0wIR00vHCJi-10" target="0TBdXVvUO0wIR00vHCJi-12">
           <mxGeometry relative="1" as="geometry" />
@@ -59,19 +59,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-10" value="解析工厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
-          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-12" value="解析器-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
-          <mxGeometry x="360" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-13" value="解析器-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
-          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-14" value="解析器-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
-          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-35" value="解析结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TBdXVvUO0wIR00vHCJi-4">
-          <mxGeometry x="220" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TBdXVvUO0wIR00vHCJi-5" value="报告模板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="70" width="560" height="410" as="geometry" />
