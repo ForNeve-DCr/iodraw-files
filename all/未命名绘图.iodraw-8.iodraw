@@ -162,6 +162,9 @@
         <mxCell id="-oc5P5kwaqdAhHGG0WOa-76" value="遍历标签数渲染" style="whiteSpace=wrap;html=1;fontStyle=1;startSize=23;" vertex="1" parent="-oc5P5kwaqdAhHGG0WOa-62">
           <mxGeometry x="235" y="295" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-oc5P5kwaqdAhHGG0WOa-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;shape=flexArrow;" edge="1" parent="1" source="-oc5P5kwaqdAhHGG0WOa-76" target="-oc5P5kwaqdAhHGG0WOa-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
